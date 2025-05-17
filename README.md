@@ -1,7 +1,5 @@
 # 📊 Sales Analytics Dashboards
 
-This project showcases a series of interactive business intelligence dashboards created for analyzing sales performance, customer segmentation, and product profitability.
-
 ## 🔍 Dashboard Highlights
 
 ### 1. **Sales Overview**
@@ -21,7 +19,7 @@ This project showcases a series of interactive business intelligence dashboards 
 - Total Profit by Sub-category
 
 ## 📁 About the Project
-These dashboards were designed to support data-driven decision-making for sales teams and business analysts. Built using Power BI / Tableau (or specify your tool), they allow interactive filtering and drill-down capabilities.
+These dashboards were designed to support data-driven decision-making for sales teams and business analysts. Built using Tableau.
 
 ---
 
