@@ -25,5 +25,20 @@ These dashboards were designed to support data-driven decision-making for sales 
 
 ---
 
-**🔗 Demo Video:** [Link to the video]
+**🔗 Demo Video:** [https://github.com/eslam556/Super-Store-Dashboard/blob/main/Dashboard%20Walkthrough.mp4]
 
+---
+
+## 📸 Screenshots
+
+> ![Page 1 - Sales Overview](https://github.com/eslam556/Super-Store-Dashboard/blob/main/Sales%20Overview.jpg)
+> *Page 1: Sales Overview.*
+
+> ![Page 2 - Products Overview](https://github.com/eslam556/Super-Store-Dashboard/blob/main/Products%20Overview.jpg)
+> *Page 2: Products Overview.*
+
+> ![Page 3 - Total Profit by Region](https://github.com/eslam556/Super-Store-Dashboard/blob/main/Total%20Profit%20by%20Region.jpg)
+> *Page 3: Total Profit by Region.*
+
+> > ![Page 4 - Total Profit by Sub-category](https://github.com/eslam556/Super-Store-Dashboard/blob/main/Total%20Profit%20by%20Sub-category.jpg)
+> *Page 4: Total Profit by Sub-category.*
