@@ -25,7 +25,7 @@ These dashboards were designed to support data-driven decision-making for sales 
 
 ---
 
-**🔗 Demo Video:** [https://github.com/eslam556/Super-Store-Dashboard/blob/main/Dashboard%20Walkthrough.mp4]
+**🔗 Demo Video:** [https://drive.google.com/file/d/10gRtaGcx_Wt7Lgd9HOauSsTv5EVo9DJ_/view?usp=sharing]
 
 ---
 
