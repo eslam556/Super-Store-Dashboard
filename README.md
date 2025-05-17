@@ -38,5 +38,5 @@ These dashboards were designed to support data-driven decision-making for sales 
 > ![Page 3 - Total Profit by Region](https://github.com/eslam556/Super-Store-Dashboard/blob/main/Total%20Profit%20by%20Region.jpg)
 > *Page 3: Total Profit by Region.*
 
-> > ![Page 4 - Total Profit by Sub-category](https://github.com/eslam556/Super-Store-Dashboard/blob/main/Total%20Profit%20by%20Sub-category.jpg)
+> ![Page 4 - Total Profit by Sub-category](https://github.com/eslam556/Super-Store-Dashboard/blob/main/Total%20Profit%20by%20Sub-category.jpg)
 > *Page 4: Total Profit by Sub-category.*
